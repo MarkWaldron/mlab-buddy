@@ -1,6 +1,6 @@
 {
   "name": "mlab-buddy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node integration with mLabs new API",
   "main": "index.js",
   "scripts": {
