@@ -3,6 +3,7 @@
 
 [![NPM Version][npm-image]][npm-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+[![Code Climate](https://codeclimate.com/github/MarkWaldron/mlab-buddy.png)](https://codeclimate.com/github/MarkWaldron/mlab-buddy)
 
 mLab is currently building a [new API][api] for creating and managing your mLab account and creating new deployments. This is very different from their existing Data API which allows you to interact with the actual MongoDB's.
 
