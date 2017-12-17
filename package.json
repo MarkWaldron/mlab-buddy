@@ -1,5 +1,5 @@
 {
-  "name": "mLabBuddy",
+  "name": "mlab-buddy",
   "version": "1.0.0",
   "description": "Node integration with mLabs new API",
   "main": "index.js",
