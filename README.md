@@ -17,6 +17,43 @@ npm install mlab-buddy --save
 ```
 
 ## Usage example
+All methods return a promise with the result of the call.
+If you're unfamiliar with promises, you call .then to get the result, and .catch to handle errors.
+
+> Me
+
+getMe
+```JavaScript
+const mLabBuddy = require('mlab-buddy');
+
+let options = {
+  accessKey: 'INSERT_ACCESS_KEY_HERE',
+  accessKeySecret: 'INSERT_ACCESS_KEY_SECRET_HERE',
+  timeout: 10000
+};
+
+mLabBuddy.me.getMe(options)
+```
+
+> Accounts
+
+```JavaScript
+const mLabBuddy = require('mlab-buddy');
+
+let options = {
+  accessKey: 'INSERT_ACCESS_KEY_HERE',
+  accessKeySecret: 'INSERT_ACCESS_KEY_SECRET_HERE',
+  accountId: 'INSERT_ACCOUNTID_HERE',
+  timeout: 10000,
+};
+
+mLabBuddy.accounts.getAccount(options)
+mLabBuddy.accounts.getCharges(options)
+mLabBuddy.accounts.getInvoices(options)
+mLabBuddy.accounts.getInvoice(options) //requires options.invoiceId to be set with a valid invoice id
+mLabBuddy.accounts.getMaintenanceEvents(options)
+
+```
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
