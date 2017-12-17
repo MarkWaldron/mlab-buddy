@@ -22,7 +22,6 @@ If you're unfamiliar with promises, you call .then to get the result, and .catch
 
 > Me
 
-getMe
 ```JavaScript
 const mLabBuddy = require('mlab-buddy');
 
