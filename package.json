@@ -1,6 +1,6 @@
 {
   "name": "mlab-buddy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node integration with mLabs new API",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarkWaldron/mLabBuddy.git"
+    "url": "git+https://github.com/MarkWaldron/mlab-buddy.git"
   },
   "keywords": [
     "mlab",
@@ -20,9 +20,9 @@
   "author": "Mark Waldron <markewaldron@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MarkWaldron/mLabBuddy/issues"
+    "url": "https://github.com/MarkWaldron/mlab-buddy/issues"
   },
-  "homepage": "https://github.com/MarkWaldron/mLabBuddy#readme",
+  "homepage": "https://github.com/MarkWaldron/mlab-buddy#readme",
   "dependencies": {
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
