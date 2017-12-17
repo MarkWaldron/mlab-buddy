@@ -56,3 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# hide test config file
+test/config.json
