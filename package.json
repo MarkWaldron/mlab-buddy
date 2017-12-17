@@ -1,0 +1,23 @@
+{
+  "name": "mLabBuddy",
+  "version": "1.0.0",
+  "description": "Node integration with mLabs new API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkWaldron/mLabBuddy.git"
+  },
+  "keywords": [],
+  "author": "Mark Waldron <markewaldron@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkWaldron/mLabBuddy/issues"
+  },
+  "homepage": "https://github.com/MarkWaldron/mLabBuddy#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
