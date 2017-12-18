@@ -1,11 +1,12 @@
 # mLab Buddy
-![mLab Buddy](https://image.ibb.co/jYMTH6/Screen_Shot_2017_12_17_at_6_10_41_PM.png)
 
 [![NPM Version][npm-image]][npm-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 [![Code Climate](https://codeclimate.com/github/MarkWaldron/mlab-buddy.png)](https://codeclimate.com/github/MarkWaldron/mlab-buddy)
 [![Issues](https://img.shields.io/codeclimate/issues/github/MarkWaldron/mlab-buddy.svg)](https://github.com/MarkWaldron/mlab-buddy/issues)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/MarkWaldron/mlab-buddy)
+
+![mLab Buddy](https://image.ibb.co/jYMTH6/Screen_Shot_2017_12_17_at_6_10_41_PM.png)
 
 > mLab Buddy is a node module used for integrating with mLabs new API (Still in BETA and subject to change)
 
